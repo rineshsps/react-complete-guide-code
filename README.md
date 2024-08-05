@@ -2,6 +2,10 @@
 
 This repository contains the course source code and other extra materials like slides.
 
+URL udemy 
+
+https://accionlabs.udemy.com/course/react-the-complete-guide-incl-redux/ 
+
 ## How to use
 
 The code snapshots are organized in multiple **branches** where every branch **represents a course section**.
